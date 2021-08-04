@@ -1,6 +1,7 @@
-%% Code to compute monthly climatology of output variables - TEMPERATURE
-% 2091-2100
-% Run the code seperately for seperate variables
+%% Code to compute monthly climatology of output variables - Relative Humidity
+% Anasuya Barik, IIT Delhi
+% Run the code seperately for seperate variables. Fluxes and radiation variables would be treated as RH.
+% REplace RH with variable name
 % For future use IST files, for current use UTC files, convert into IST
 % then use the code
 var='rh'
