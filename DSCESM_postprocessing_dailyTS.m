@@ -1,7 +1,7 @@
-%% Code to compute daily Time Series
+%% Code to compute daily Time Series (3650 time steps)
 % Anasuya Barik, IIT Delhi
-
 % Use IST converted files only
+% This code is for temperature. Make suitable changes for other variables.
 %% For Jan
 load('jan_temp.mat')
 load('dec_temp.mat')
