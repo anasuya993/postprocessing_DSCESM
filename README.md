@@ -1,6 +1,6 @@
 # postprocessing_DSCESM
 postprocessing WRF downscaled DSCESM climate data into usable NetCDF.
-WRF downscaling has been done using the namelist.pdf file.
+WRF downscaling has been done using the WRF_namelist.pdf file.
 The downscaled output from WRF has been postprosessed in MATLAB using the .m codes.
 The utility information and specific instructions are present in the header of the codes.
 
